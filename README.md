@@ -1,1 +1,2 @@
-# ComputerVision-OpenCV-DeepLearning
+- Face detection with OpenCV using a pre-trained deep learning face detector model
+- Use of images from my favourite movie 'Once upon a time in the west'
